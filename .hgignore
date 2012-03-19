@@ -1,0 +1,5 @@
+syntax: glob
+*.class
+war/org.skrat.gwt.ColorBox
+war/WEB-INF/lib/gwt-servlet.jar
+*.iml
